@@ -31,7 +31,7 @@ function same(arr1, arr2) {
 }
 
 //Frequency counter problems:
-//Create one or two objects that store the frequency of occurence of necessaty data. 
+//Create one or two objects that store the frequency of occurence of necessary data. 
 //Traverse through laater with required logic
 
 function validAnagram(str1, str2) {
